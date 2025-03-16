@@ -1,0 +1,13 @@
+{
+  "appId": "com.hearit.app",
+  "appName": "Hear'It",
+  "webDir": "dist/public",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
